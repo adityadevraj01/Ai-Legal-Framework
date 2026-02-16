@@ -1,0 +1,23 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Document Backups
+*.bak
+~$*.docx
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Build/Output
+*.pdf.bak
+*.docx.bak
